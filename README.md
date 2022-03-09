@@ -4,7 +4,7 @@
 
 I'm a full stack developer that is passionate about writing code that significantly impacts the lives of others. We are all in this together!
 
-- 🔭 I’m currently a Full Stack Web Developer student at Lambda School.
+- 🔭 I’m currently a Full Stack Java Developer at GenSpark
 - 📚 I’m currently learning frontend and backend web development using React, NodeJS, Postgresql, and Python.
 - 👯 I’m looking for a full stack developer role. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dtebo83/) [Outlook](mailto:darrentebo83@outlook.com)
