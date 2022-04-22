@@ -6,7 +6,7 @@ I'm a full stack developer that is passionate about writing code that significan
 
 - 🔭 I’m currently a Full Stack Java Developer at GenSpark
 - 📚 I’m currently learning frontend and backend web development using React, NodeJS, Postgresql, and Python.
-- 👯 I’m looking for a .NET Full Stack Developer role. 
+- 👯 I’m looking for a Java Full Stack Developer role. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dtebo83/) [Outlook](mailto:darrentebo83@outlook.com)
 
 ⭐️ From [dtebo](https://github.com/dtebo)
